@@ -1,0 +1,23 @@
+{
+  "greeting": "Hola!",
+  "name": "Aditi",
+  "greetingText": "Guess what? Today’s the day we’ve all been waiting for...your birthday! 🎉",
+  "wishText": "May your life be as bright and beautiful as your smile, lighting up every moment. ✨",
+  "imagePath": "img/guest.png",
+  "text1": "Let’s get this party started! 🎂🎈",
+  "textInChatBox": "Sending you infinite happiness, love, and cake! 🍰🎁",
+  "sendButtonLabel": "Send Wishes",
+  "text2": "I had a thousand wishes planned for today.",
+  "text3": "But then something magical happened...",
+  "text4": "I realized that today deserves something even more",
+  "text4Adjective": "extraordinary!",
+  "text5Entry": "Because,",
+  "text5Content": "You are one of a kind! 🎉",
+  "smiley": "😊",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "To the Queen of the Day!",
+  "outroText": "Her eyes resemble the moon\nand she wears an invisible crown.\nOnly her smile is always shown,\nBut I know the way she crazily frowns.\nI promise your dreams will never be torn,\nand even the stars have sworn.\nTrust me, you'll never be alone,\nand it's your smile that will be worn.\nAditi, may you live long,\nI am always beside you singing happy songs! 💫",
+  "replayText": "Want to relive the magic? Click here!",
+  "outroSmiley": "😄"
+}
